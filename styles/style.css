@@ -73,7 +73,6 @@
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color: #f2f2f2;
 }
 .two-columns {
   display: flex;
@@ -114,9 +113,6 @@
   line-height: 34px;
   font-weight: 600;
   font-size: 24px;
-}
-.digits{
-  background-color: #f2f2f2;
 }
 .section-title {
   margin: 100px auto 20px;
